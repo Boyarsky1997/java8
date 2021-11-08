@@ -1,4 +1,4 @@
-package com.github.boyarsky1997.java8;
+package com.github.boyarsky1997.java8.model;
 
 public class Customer {
     private int id;

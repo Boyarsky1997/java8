@@ -1,4 +1,4 @@
-package com.github.boyarsky1997.java8;
+package com.github.boyarsky1997.java8.model;
 
 import java.time.LocalDate;
 import java.util.Set;

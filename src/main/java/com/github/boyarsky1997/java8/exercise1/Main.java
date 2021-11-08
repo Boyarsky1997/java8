@@ -1,6 +1,6 @@
 package com.github.boyarsky1997.java8.exercise1;
 
-import com.github.boyarsky1997.java8.Product;
+import com.github.boyarsky1997.java8.model.Product;
 
 import java.util.Arrays;
 import java.util.List;

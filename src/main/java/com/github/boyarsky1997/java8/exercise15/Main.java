@@ -1,6 +1,6 @@
 package com.github.boyarsky1997.java8.exercise15;
 
-import com.github.boyarsky1997.java8.Product;
+import com.github.boyarsky1997.java8.model.Product;
 
 import java.util.*;
 import java.util.stream.Collectors;

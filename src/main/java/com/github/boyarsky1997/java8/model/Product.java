@@ -1,4 +1,6 @@
-package com.github.boyarsky1997.java8;
+package com.github.boyarsky1997.java8.model;
+
+import com.github.boyarsky1997.java8.model.Order;
 
 import java.util.Set;
 

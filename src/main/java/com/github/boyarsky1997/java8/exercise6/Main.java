@@ -1,14 +1,11 @@
 package com.github.boyarsky1997.java8.exercise6;
 
-import com.github.boyarsky1997.java8.Customer;
-import com.github.boyarsky1997.java8.Order;
-import com.github.boyarsky1997.java8.Product;
+import com.github.boyarsky1997.java8.model.Customer;
+import com.github.boyarsky1997.java8.model.Order;
 
 import java.time.LocalDate;
 import java.util.Arrays;
-import java.util.HashSet;
 import java.util.List;
-import java.util.Set;
 import java.util.stream.Collectors;
 
 /**
